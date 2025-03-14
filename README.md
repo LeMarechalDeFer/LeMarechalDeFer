@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Romain Blanchot
+### 🚀 Computer Engineering Student | Full-Stack Developer | DevOps | AI & Algorithms
 
-<!--
-**LeMarechalDeFer/LeMarechalDeFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about computer engineering, I'm always exploring new ways to push the boundaries of software development, infrastructure, and AI. I design and build end-to-end technical solutions, from web development (React, Next.js, Node.js) to DevOps infrastructure (Docker, Kubernetes, CI/CD), with a strong focus on AI & NLP (MLOps, Data Engineering). Passionate about algorithms and optimization, I create scalable and high-performance systems.
 
-Here are some ideas to get you started:
+### 📌 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Full-Stack Development: Next.js, Node.js, PostgreSQL, Redis 
+
+🔹 DevOps & Cloud: Kubernetes, Docker, CI/CD, monitoring
+
+🔹 AI & MLOps: NLP, Transformers, MLflow, Kubeflow
+
+🔹 Algorithms & Optimization: Graphs, Bellman-Ford, Dynamic Programming
+
+
+### 🎯 Current Projects:
+
+🔹 Webmaster @ Hôtel La Louisiane – Full-stack development & hosting
+
+🔹 Kubernetes Infrastructure on R620 Servers
+
+🔹Automated Data Extraction & ETL Pipelines
+
+
+#### 💼 Portfolio & Contact: www.romainblanchot.com
+
+💡 Always eager to learn, explore, and innovate in the world of computer engineering. Let's build something great! 🚀
